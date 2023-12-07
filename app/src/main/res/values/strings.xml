@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trabalho03</string>
+    <string name="textView2">Cadastre-se</string>
+    <string name="primeira_tela">PRIMEIRA TELA</string>
+    <string name="primeira_tela1">Primeira tela</string>
+    <string name="btnLogin">Button</string>
+    <string name="btnCadastro">Button</string>
+    <string name="cadastrar">CADASTRAR</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="text_cadastro">Não Possui Conta? Registre-se</string>
+    <string name="nome_do_usuario">Nome do Usuario</string>
+    <string name="nivel_do_usuario">Nivel do Usuario</string>
+
+</resources>
